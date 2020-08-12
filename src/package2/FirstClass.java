@@ -23,5 +23,7 @@ public class FirstClass {
 		System.out.println("First commit from local tacettin branch");
 
 		System.out.println("The second commit from local tacettin");
+		System.out.println("This is our conflict");
+		
 	}
 }
